@@ -21,4 +21,4 @@ Puedes descargar Obsidian desde su sitio web oficial: [Obsidian](https://obsidia
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/Apuntes.git
+   git clone https://github.com/andresuarique/Apuntes.git

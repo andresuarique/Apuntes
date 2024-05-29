@@ -15,3 +15,5 @@ plataforma: Plazi
 1. [[Qué es Node.js]]
 2. [[Event Loop]]
 3. [[Monohilo - implicaciones en diseño y seguridad]]
+4. [[Callbacks]]
+5. [[Callback Hell]]

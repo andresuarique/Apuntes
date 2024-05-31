@@ -2,7 +2,7 @@
 
 ## ¿Qué es Async/Await?
 
-`async` y `await` son palabras clave introducidas en ECMAScript 2017 (ES8) que permiten escribir código asíncrono de una manera más legible y manejable. Utilizan [[Promesas|promesas]] en el fondo, pero proporcionan una sintaxis más limpia y directa para manejar operaciones asíncronas, evitando el [[Callback Hell|callback hell]] y facilitando la lectura y escritura del código.
+`async` y `await` son palabras clave introducidas en ECMAScript 2017 (ES8) que permiten escribir código [[Asincronía|asíncrono]] de una manera más legible y manejable. Utilizan [[Promesas|promesas]] en el fondo, pero proporcionan una sintaxis más limpia y directa para manejar operaciones asíncronas, evitando el [[Callback Hell|callback hell]] y facilitando la lectura y escritura del código.
 
 ## Funciones Async
 

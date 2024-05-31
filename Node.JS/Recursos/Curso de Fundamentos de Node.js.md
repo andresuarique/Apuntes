@@ -15,7 +15,10 @@ plataforma: Plazi
 1. [[Qué es Node.js]]
 2. [[Event Loop]]
 3. [[Monohilo - implicaciones en diseño y seguridad]]
-4. [[Callbacks]]
-5. [[Callback Hell]]
-6. [[Promesas]]
-7. [[Async - Await]]
+4. [[Asincronía]]
+	1. [[Callbacks]]
+	2. [[Callback Hell]]
+	3. [[Promesas]]
+	4. [[Async - Await]]
+
+

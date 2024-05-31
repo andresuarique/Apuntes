@@ -23,4 +23,9 @@ plataforma: Platzi
 5. [[Modulos]]
 	1. [[Globals]]
 	2. [[File System]]
-
+	3. [[Console]]
+	4. [[Errores Try Catch]]
+	5. [[Procesos Hijo]]
+	6. [[Modulo HTTP]]
+	7. [[Modulo OS]]
+	8. [[Modulo Process]]

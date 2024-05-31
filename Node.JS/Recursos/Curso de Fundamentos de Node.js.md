@@ -17,3 +17,5 @@ plataforma: Plazi
 3. [[Monohilo - implicaciones en diseño y seguridad]]
 4. [[Callbacks]]
 5. [[Callback Hell]]
+6. [[Promesas]]
+7. [[Async - Await]]

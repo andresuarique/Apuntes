@@ -12,6 +12,6 @@ Un módulo en Node.js es un fragmento de código reutilizable que encapsula func
 4. **Facilitar el Mantenimiento**: Al dividir el código en partes más pequeñas y manejables, se facilita su mantenimiento y actualización.
 5. **Colaboración**: Permiten a diferentes desarrolladores trabajar en diferentes partes de la aplicación sin interferencias, facilitando la colaboración en proyectos grandes.
 
-Node.js proporciona módulos nativos que vienen integrados, así como soporte para módulos de terceros que se pueden instalar a través de npm (Node Package Manager), y permite la creación de módulos propios para encapsular funcionalidad específica.
+Node.js proporciona módulos nativos que vienen integrados, así como soporte para módulos de terceros que se pueden instalar a través de [[npm|npm (Node Package Manager)]], y permite la creación de módulos propios para encapsular funcionalidad específica.
 
 Los módulos son una característica esencial en Node.js que facilitan la creación de aplicaciones escalables y mantenibles.

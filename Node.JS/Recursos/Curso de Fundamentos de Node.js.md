@@ -8,7 +8,7 @@ autor: Carlos Hernández
 fecha creacion: 2020-01-02
 url: https://platzi.com/cursos/fundamentos-node/
 fecha visualización: 2024-05-28
-plataforma: Plazi
+plataforma: Platzi
 ---
 # Índice
 
@@ -20,5 +20,7 @@ plataforma: Plazi
 	2. [[Callback Hell]]
 	3. [[Promesas]]
 	4. [[Async - Await]]
-
+5. [[Modulos]]
+	1. [[Globals]]
+	2. [[File System]]
 

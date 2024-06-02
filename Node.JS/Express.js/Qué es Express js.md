@@ -5,7 +5,7 @@
 ## Características de Express
 
 1. **Manejadores de Peticiones**:
-   - Permite la escritura de manejadores de peticiones utilizando diferentes verbos HTTP (GET, POST, PUT, DELETE, etc.) en diferentes caminos URL (rutas).
+   - Permite la escritura de manejadores de peticiones utilizando diferentes [verbos HTTP](../../ConceptosGenerales/Métodos%20HTTP.md) (GET, POST, PUT, DELETE, etc.) en diferentes caminos URL (rutas).
 
 2. **Motor de Renderización de Vistas**:
    - Facilita la integración con motores de renderización de "vistas" para generar respuestas mediante la introducción de datos en plantillas. Esto permite crear contenido dinámico basado en datos del servidor.
@@ -14,6 +14,6 @@
    - Permite establecer configuraciones de la aplicación web, como el puerto a utilizar para conectar y la localización de las plantillas que se utilizan para renderizar las respuestas.
 
 4. **Middleware**:
-   - Añade procesamiento de peticiones "middleware" adicional en cualquier punto dentro de la tubería de manejo de la petición. Esto permite la manipulación de solicitudes y respuestas, la adición de funcionalidades y el manejo de errores de manera modular y flexible.
+   - Añade procesamiento de peticiones "[middleware](../../ConceptosGenerales/Middleware.md)" adicional en cualquier punto dentro de la tubería de manejo de la petición. Esto permite la manipulación de solicitudes y respuestas, la adición de funcionalidades y el manejo de errores de manera modular y flexible.
 
 Express se destaca por su simplicidad y flexibilidad, permitiendo a los desarrolladores crear aplicaciones web robustas y escalables con facilidad. Al proporcionar una estructura básica sin imponer una arquitectura rígida, permite a los desarrolladores decidir cómo organizar su aplicación según sus necesidades específicas.

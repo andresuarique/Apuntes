@@ -2,7 +2,7 @@
 
 npm es el administrador de paquetes de Node.js que permite ejecutar funciones ya realizadas y validadas, acelerando y asegurando la calidad de nuestro proceso de desarrollo.
 
-Podemos buscar [[Modulos|módulos]] para casi cualquier propósito en el sitio oficial de [npm](https://www.npmjs.com/).
+Podemos buscar [módulos](Node.JS/Modulos.md) para casi cualquier propósito en el sitio oficial de [npm](https://www.npmjs.com/).
 
 ## Uso Básico de npm
 

@@ -1,6 +1,6 @@
 # Módulo `os`
 
-El [[Modulos|módulo]] `os` en Node.js proporciona una serie de utilidades relacionadas con el sistema operativo subyacente. Este módulo te permite acceder a información sobre el sistema operativo, el entorno y realizar operaciones específicas del sistema operativo.
+El [módulo](Node.JS/Modulos.md) `os` en Node.js proporciona una serie de utilidades relacionadas con el sistema operativo subyacente. Este módulo te permite acceder a información sobre el sistema operativo, el entorno y realizar operaciones específicas del sistema operativo.
 
 ## Funciones Comunes del Módulo `os`
 

@@ -12,25 +12,24 @@ plataforma: Platzi
 ---
 # Índice
 
-1. [[Qué es Node.js]]
-2. [[Event Loop]]
-3. [[Monohilo - implicaciones en diseño y seguridad]]
-4. [[Asincronía]]
-	1. [[Callbacks]]
-	2. [[Callback Hell]]
-	3. [[Promesas]]
-	4. [[Async - Await]]
-5. [[Modulos]]
-	1. [[Globals]]
-	2. [[File System]]
-	3. [[Console]]
-	4. [[Errores Try Catch]]
-	5. [[Procesos Hijo]]
-	6. [[Modulo HTTP]]
-	7. [[Modulo OS]]
-	8. [[Modulo Process]]
-	9. [[npm]]
-	10. [[Importar y Exportar Modulos]]
-6. [[Buffers]]
-7. [[Streams]]
-8. 
+1. [Qué es Node.js](Node.JS/Qué%20es%20Node.js.md)
+2. [Event Loop](Node.JS/Event%20Loop.md)
+3. [Monohilo - implicaciones en diseño y seguridad](Node.JS/Monohilo%20-%20implicaciones%20en%20diseño%20y%20seguridad.md)
+4. [Asincronía](Node.JS/Asincronía.md)
+	1. [Callbacks](Node.JS/Callbacks.md)
+	2. [Callback Hell](Node.JS/Callback%20Hell.md)
+	3. [Promesas](Node.JS/Promesas.md)
+	4. [Async - Await](Node.JS/Async%20-%20Await.md)
+5. [Modulos](Node.JS/Modulos.md)
+	1. [Globals](Node.JS/Globals.md)
+	2. [File System](Node.JS/File%20System.md)
+	3. [Console](Node.JS/Console.md)
+	4. [Errores Try Catch](Node.JS/Errores%20Try%20Catch.md)
+	5. [Procesos Hijo](Node.JS/Procesos%20Hijo.md)
+	6. [Modulo HTTP](Node.JS/Modulo%20HTTP.md)
+	7. [Modulo OS](Node.JS/Modulo%20OS.md)
+	8. [Modulo Process](Node.JS/Modulo%20Process.md)
+	9. [npm](Node.JS/npm.md)
+	10. [Importar y Exportar Modulos](Node.JS/Importar%20y%20Exportar%20Modulos.md)
+6. [Buffers](Node.JS/Buffers.md)
+7. [Streams](Node.JS/Streams.md)

@@ -2,7 +2,7 @@
 
 ## ¿Qué es Async/Await?
 
-`async` y `await` son palabras clave introducidas en ECMAScript 2017 (ES8) que permiten escribir código [[Asincronía|asíncrono]] de una manera más legible y manejable. Utilizan [[Promesas|promesas]] en el fondo, pero proporcionan una sintaxis más limpia y directa para manejar operaciones asíncronas, evitando el [[Callback Hell|callback hell]] y facilitando la lectura y escritura del código.
+`async` y `await` son palabras clave introducidas en ECMAScript 2017 (ES8) que permiten escribir código [asíncrono](Node.JS/Asincronía.md) de una manera más legible y manejable. Utilizan [promesas](Node.JS/Promesas.md) en el fondo, pero proporcionan una sintaxis más limpia y directa para manejar operaciones asíncronas, evitando el [callback hell](Node.JS/Callback%20Hell.md) y facilitando la lectura y escritura del código.
 
 ## Funciones Async
 
@@ -77,7 +77,7 @@ leerArchivosSecuencialmente();
 
 ## Ventajas de Async/Await
 
-- **Legibilidad**: El código es más fácil de leer y escribir comparado con el uso de promesas y [[Callbacks|callbacks]] anidados.
+- **Legibilidad**: El código es más fácil de leer y escribir comparado con el uso de promesas y [callbacks](Node.JS/Callbacks.md) anidados.
 - **Manejo de Errores**: El manejo de errores se simplifica usando `try/catch`.
 - **Flujo Secuencial**: Facilita la escritura de código asíncrono que se comporta de manera secuencial, similar al código síncrono.
 

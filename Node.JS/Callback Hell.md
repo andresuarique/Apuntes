@@ -2,7 +2,7 @@
 
 ## ¿Qué es el Callback Hell?
 
-El término "callback hell" se refiere a una situación en la que se anidan múltiples [[Callbacks|callbacks]] dentro de otros callbacks, lo que genera un código difícil de leer y mantener. Este problema es común cuando se realizan varias operaciones asíncronas de forma secuencial, donde cada operación depende del resultado de la anterior.
+El término "callback hell" se refiere a una situación en la que se anidan múltiples [callbacks](Node.JS/Callbacks.md) dentro de otros callbacks, lo que genera un código difícil de leer y mantener. Este problema es común cuando se realizan varias operaciones asíncronas de forma secuencial, donde cada operación depende del resultado de la anterior.
 
 El código que cae en el callback hell suele tener una estructura similar a una "pirámide de la perdición", donde cada nivel de anidación se desplaza más hacia la derecha, creando un efecto de escalera.
 

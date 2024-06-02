@@ -1,6 +1,6 @@
 # Módulo `process`
 
-El [[Modulos|módulo]] `process` en Node.js nos permite interactuar con el proceso actual de Node.js. Podemos escuchar señales, gestionar eventos y realizar diversas acciones en función del estado del proceso.
+El [módulo](Node.JS/Modulos.md) `process` en Node.js nos permite interactuar con el proceso actual de Node.js. Podemos escuchar señales, gestionar eventos y realizar diversas acciones en función del estado del proceso.
 
 Aunque puedes hacer `require` para obtener `process`, no es necesario porque `process` es una variable global disponible en todos los entornos de Node.js.
 
@@ -10,7 +10,7 @@ const process = require('process'); // No es necesario
 
 ## Eventos del Proceso
 
-- **`beforeExit`**: Se dispara cuando Node.js está a punto de finalizar el proceso, pero hay trabajos pendientes en el [[Event Loop|bucle de eventos]] que deben completarse.
+- **`beforeExit`**: Se dispara cuando Node.js está a punto de finalizar el proceso, pero hay trabajos pendientes en el [bucle de eventos](Node.JS/Event%20Loop.md) que deben completarse.
     ```javascript
     process.on('beforeExit', (code) => {
         console.log('El proceso está a punto de finalizar con el código:', code);

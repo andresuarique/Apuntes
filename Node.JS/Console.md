@@ -1,6 +1,6 @@
 # Console
 
-En Node.js, `console` es un objeto [[Globals|global]] que nos permite imprimir todo tipo de valores en la terminal. Es una herramienta fundamental para la depuración y el seguimiento de la ejecución de programas. A continuación se describen los métodos más comunes del objeto `console`:
+En Node.js, `console` es un objeto [global](Node.JS/Globals.md) que nos permite imprimir todo tipo de valores en la terminal. Es una herramienta fundamental para la depuración y el seguimiento de la ejecución de programas. A continuación se describen los métodos más comunes del objeto `console`:
 
 ## Métodos de `console`
 

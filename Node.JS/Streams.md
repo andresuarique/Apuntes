@@ -18,7 +18,7 @@ readableStream.on('end', () => console.log(data));
 
 ## Escritura en el Buffer de Salida del Sistema
 
-Podemos escribir en el [[Buffers|buffer]] de salida del sistema. `process.stdout` es un buffer de escritura que empieza a trabajar para generar todo esto.
+Podemos escribir en el [buffer](Node.JS/Buffers.md) de salida del sistema. `process.stdout` es un buffer de escritura que empieza a trabajar para generar todo esto.
 
 ```javascript
 process.stdout.write('hola');

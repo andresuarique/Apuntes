@@ -5,8 +5,8 @@
 	1. [Verbos HTTP en Express js](Express.js/Verbos%20HTTP%20en%20Express%20js.md)
 		1. [GET en Express.js](Express.js/GET%20en%20Express.js.md)
 		2. [POST en Express.js](Express.js/POST%20en%20Express.js.md)
-		3. [PUT en Express.js](../PUT%20en%20Express.js.md)
-		4. [PATCH en Express.js](../PATCH%20en%20Express.js.md)
+		3. [PUT en Express.js](Express.js/PUT%20en%20Express.js.md)
+		4. [PATCH en Express.js](Express.js/PATCH%20en%20Express.js.md)
 		5. [DELETE en Express.js](Express.js/DELETE%20en%20Express.js.md)
 	2. [Uso de express.Router](Express.js/Uso%20de%20express.Router.md)
 # Recursos

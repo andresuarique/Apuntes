@@ -33,3 +33,4 @@ plataforma: Platzi
 	10. [Importar y Exportar Modulos](../Fundamentos/Importar%20y%20Exportar%20Modulos.md)
 6. [Buffers](../Fundamentos/Buffers.md)
 7. [Streams](../Fundamentos/Streams.md)
+8. [Error First Callbacks](../Fundamentos/Error%20First%20Callbacks.md)

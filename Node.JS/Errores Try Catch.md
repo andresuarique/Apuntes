@@ -1,6 +1,6 @@
 # Errores (try / catch)
 
-El manejo de errores síncronos y [asíncronos](Node.JS/Asincronía.md) en JavaScript se realiza utilizando `try...catch` para errores síncronos y métodos como `.catch()` o bloques `try catch` con [async/await](Node.JS/Async%20-%20Await.md) para errores asíncronos. A continuación, se proporcionan ejemplos de cómo manejar ambos tipos de errores:
+El manejo de errores síncronos y [asíncronos](Asincronía.md) en JavaScript se realiza utilizando `try...catch` para errores síncronos y métodos como `.catch()` o bloques `try catch` con [async/await](Async%20-%20Await.md) para errores asíncronos. A continuación, se proporcionan ejemplos de cómo manejar ambos tipos de errores:
 
 ### Manejo de Errores Síncronos con `try...catch`
 

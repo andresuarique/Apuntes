@@ -8,7 +8,7 @@ La asincronía en Node.js se refiere a la capacidad del entorno de ejecución pa
 
 1. **No Bloqueante**: Las operaciones asincrónicas no bloquean el hilo principal de ejecución, lo que permite que el programa continúe realizando otras tareas mientras espera que una operación se complete.
 
-2. **Callbacks**: Las operaciones asincrónicas suelen utilizar [callbacks](Node.JS/Callbacks.md) para manejar la finalización de la operación o para manejar errores. Esto permite que el código se ejecute de manera no secuencial, lo que resulta en un código más eficiente y escalable.
+2. **Callbacks**: Las operaciones asincrónicas suelen utilizar [callbacks](Callbacks.md) para manejar la finalización de la operación o para manejar errores. Esto permite que el código se ejecute de manera no secuencial, lo que resulta en un código más eficiente y escalable.
 
 3. **Eventos**: En Node.js, la asincronía se basa en un modelo de eventos en el que las operaciones asincrónicas emiten eventos cuando se completan. Esto permite que el código responda a eventos específicos en lugar de esperar de manera pasiva a que una operación se complete.
 

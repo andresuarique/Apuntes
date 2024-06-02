@@ -1,7 +1,7 @@
 
 # File System
 
-El File System (sistema de archivos) es uno de los [módulos](Node.JS/Modulos.md) principales que nos ofrece Node.js. Este módulo nos permite operar directamente con los archivos de nuestro sistema, permitiéndonos crear, leer, editar o eliminar archivos. Es muy importante tener en cuenta que la mayoría de los métodos de este módulo son [asíncronos](Node.JS/Asincronía.md), pero también se ofrecen versiones síncronas. Sin embargo, las versiones síncronas son poco recomendables, ya que pueden bloquear el [event loop](Node.JS/Event%20Loop.md) de Node.js.
+El File System (sistema de archivos) es uno de los [módulos](Modulos.md) principales que nos ofrece Node.js. Este módulo nos permite operar directamente con los archivos de nuestro sistema, permitiéndonos crear, leer, editar o eliminar archivos. Es muy importante tener en cuenta que la mayoría de los métodos de este módulo son [asíncronos](Asincronía.md), pero también se ofrecen versiones síncronas. Sin embargo, las versiones síncronas son poco recomendables, ya que pueden bloquear el [event loop](Event%20Loop.md) de Node.js.
 
 Para poder usar este módulo, debemos importarlo con `require` en una constante con el mismo nombre del módulo:
 
@@ -15,7 +15,7 @@ Una vez importado, podremos comenzar a usar los métodos que este módulo nos of
 
 ### `fs.readFile(path, callback)`
 
-Lee el contenido de un archivo de manera asíncrona. El primer argumento es la ruta del archivo y el segundo es una función [callback](Node.JS/Callbacks.md) que se ejecuta cuando la lectura del archivo se completa.
+Lee el contenido de un archivo de manera asíncrona. El primer argumento es la ruta del archivo y el segundo es una función [callback](Callbacks.md) que se ejecuta cuando la lectura del archivo se completa.
 
 ```js
 fs.readFile('ruta/al/archivo.txt', 'utf8', (err, data) => {

@@ -1,7 +1,7 @@
 
 # Promesas
 
-Una Promise o promesa es un objeto que representa la terminación o el fracaso de una operación [asíncrona](Node.JS/Asincronía.md). Esencialmente, una promesa es un objeto devuelto al cual se adjuntan funciones [callback](Node.JS/Callbacks.md), en lugar de pasar callbacks a una función.
+Una Promise o promesa es un objeto que representa la terminación o el fracaso de una operación [asíncrona](Asincronía.md). Esencialmente, una promesa es un objeto devuelto al cual se adjuntan funciones [callback](Callbacks.md), en lugar de pasar callbacks a una función.
 
 Las promesas en JavaScript se representan a través de un objeto, y cada promesa estará en uno de los siguientes estados:
 - **Pendiente (pending)**: La promesa se está ejecutando y aún no se ha resuelto ni rechazado.
@@ -16,7 +16,7 @@ Cada promesa tiene los siguientes métodos, que podemos utilizar para gestionarl
 2. **catch(onRejected)**: Se ejecuta cuando la promesa es rechazada.
 3. **finally(onFinally)**: Se ejecuta independientemente de si la promesa se resolvió o se rechazó, para realizar una acción una vez que la promesa ha concluido.
 
-![Pasted image 20240530191452](ANEXOS/Pasted%20image%2020240530191452.png)
+![Pasted image 20240530191452](../ANEXOS/Pasted%20image%2020240530191452.png)
 ## Ejemplo de Promesas
 
 A continuación, se muestra un ejemplo de cómo utilizar promesas en JavaScript para realizar una operación asíncrona, como la lectura de un archivo:

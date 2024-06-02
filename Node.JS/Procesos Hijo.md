@@ -1,6 +1,6 @@
 # Módulo `child_process`
 
-El [módulo](Node.JS/Modulos.md) `child_process` en Node.js nos permite crear y controlar procesos hijos. Estos procesos hijos pueden ejecutar comandos del sistema, otros programas y scripts, permitiendo que Node.js interactúe con el sistema operativo y otros programas de manera eficiente.
+El [módulo](Modulos.md) `child_process` en Node.js nos permite crear y controlar procesos hijos. Estos procesos hijos pueden ejecutar comandos del sistema, otros programas y scripts, permitiendo que Node.js interactúe con el sistema operativo y otros programas de manera eficiente.
 
 ## Características Principales
 

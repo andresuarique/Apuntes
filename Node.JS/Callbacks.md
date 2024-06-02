@@ -1,6 +1,6 @@
 # Callback en Node.js
 
-En Node.js, un callback es una función que se pasa como argumento a otra función y se invoca después de que se haya completado alguna operación [asíncrona](Node.JS/Asincronía.md) o de larga duración. Es una técnica fundamental en la programación asíncrona que permite manejar eventos y asegurar que el código se ejecute en el momento adecuado, en lugar de bloquear la ejecución hasta que se complete una tarea.
+En Node.js, un callback es una función que se pasa como argumento a otra función y se invoca después de que se haya completado alguna operación [asíncrona](Asincronía.md) o de larga duración. Es una técnica fundamental en la programación asíncrona que permite manejar eventos y asegurar que el código se ejecute en el momento adecuado, en lugar de bloquear la ejecución hasta que se complete una tarea.
 
 ## Funciones asíncronas en Node.js
 

@@ -1,4 +1,3 @@
-
 # Apuntes
 
 Este repositorio contiene una serie de apuntes creados y gestionados con Obsidian. Obsidian es una potente plataforma de toma de notas que utiliza archivos en formato Markdown (.md), ofreciendo herramientas avanzadas para la gestión del contenido y una mejor visualización de la información.
@@ -20,5 +19,7 @@ Puedes descargar Obsidian desde su sitio web oficial: [Obsidian](https://obsidia
 ## Cómo utilizar este repositorio
 
 1. **Clonar el repositorio**:
+
    ```bash
    git clone https://github.com/andresuarique/Apuntes.git
+   ```

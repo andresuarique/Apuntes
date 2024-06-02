@@ -30,3 +30,5 @@ Los códigos de estado [HTTP](HTTP.md) son indicadores numéricos que se utiliza
 - **503 Service Unavailable:** Indica que el servidor no está disponible en este momento debido a una sobrecarga o mantenimiento.
 
 Estos son solo algunos ejemplos de los códigos de estado HTTP más comunes. Hay muchos más códigos de estado definidos en la especificación HTTP, cada uno con su propio significado y uso específico.
+
+![Pasted image 20240602172301](ANEXOS/Pasted%20image%2020240602172301.png)

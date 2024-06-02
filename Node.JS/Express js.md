@@ -9,5 +9,6 @@
 		4. [PATCH en Express.js](Express.js/PATCH%20en%20Express.js.md)
 		5. [DELETE en Express.js](Express.js/DELETE%20en%20Express.js.md)
 	2. [Uso de express.Router](Express.js/Uso%20de%20express.Router.md)
+	3. [Envío de Códigos de Estado en Express.js](Express.js/Envío%20de%20Códigos%20de%20Estado%20en%20Express.js.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)

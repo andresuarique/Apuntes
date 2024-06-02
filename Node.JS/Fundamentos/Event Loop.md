@@ -1,6 +1,5 @@
-# ASINCRONÍA POR DISEÑO:
+# Event Loop
 
-## Event Loop:
 Es un proceso que actúa como un bucle y se gestiona de forma automática. Todo lo que sucede en la aplicación funciona de manera [asíncrona](Asincronía.md), asegurando que el bucle no se bloquee y que todo lo que se le envíe se ejecute por separado. El bucle puede seguir recibiendo peticiones. Por esta razón, Node.js se considera altamente escalable y se utiliza en muchas aplicaciones que requieren múltiples operaciones de entrada y salida. Podemos imaginarlo como un círculo girando, donde los eventos provienen de la cola de eventos o Event Queue.
 
 ## Event Queue:

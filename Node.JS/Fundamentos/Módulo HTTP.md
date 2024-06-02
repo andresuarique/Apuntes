@@ -1,6 +1,6 @@
 # Módulo `http`
 
-Node.js nos ofrece el [módulo](Modulos.md) HTTP, el cual nos permite principalmente crear un servidor en nuestro computador. Este módulo incluye todas las herramientas necesarias para crear un sistema de rutas, definir cómo responderá a cada ruta, gestionar los headers, y más.
+Node.js nos ofrece el [módulo](Módulos.md) HTTP, el cual nos permite principalmente crear un servidor en nuestro computador. Este módulo incluye todas las herramientas necesarias para crear un sistema de rutas, definir cómo responderá a cada ruta, gestionar los headers, y más.
 
 ## Características del Módulo HTTP
 

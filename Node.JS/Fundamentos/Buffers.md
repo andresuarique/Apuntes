@@ -1,4 +1,3 @@
-
 # Buffer
 
 Un buffer es un espacio de memoria (en la memoria RAM) donde se almacenan datos de manera temporal.

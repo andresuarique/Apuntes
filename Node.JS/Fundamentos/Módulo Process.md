@@ -1,6 +1,6 @@
 # Módulo `process`
 
-El [módulo](Modulos.md) `process` en Node.js nos permite interactuar con el proceso actual de Node.js. Podemos escuchar señales, gestionar eventos y realizar diversas acciones en función del estado del proceso.
+El [módulo](Módulos.md) `process` en Node.js nos permite interactuar con el proceso actual de Node.js. Podemos escuchar señales, gestionar eventos y realizar diversas acciones en función del estado del proceso.
 
 Aunque puedes hacer `require` para obtener `process`, no es necesario porque `process` es una variable global disponible en todos los entornos de Node.js.
 

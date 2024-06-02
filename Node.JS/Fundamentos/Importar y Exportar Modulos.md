@@ -4,7 +4,7 @@ Los ES6 Modules son una forma moderna y estándar de organizar y estructurar el 
 
 ## Exportar desde un Módulo
 
-Para exportar contenido desde un [módulo](Modulos.md), utilizamos la palabra clave `export`. Hay varias formas de exportar:
+Para exportar contenido desde un [módulo](Módulos.md), utilizamos la palabra clave `export`. Hay varias formas de exportar:
 
 - **Exportar por Defecto (`export default`)**: Permite exportar una sola entidad por defecto desde un módulo.
 

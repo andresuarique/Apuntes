@@ -1,4 +1,3 @@
-
 # Promesas
 
 Una Promise o promesa es un objeto que representa la terminación o el fracaso de una operación [asíncrona](Asincronía.md). Esencialmente, una promesa es un objeto devuelto al cual se adjuntan funciones [callback](Callbacks.md), en lugar de pasar callbacks a una función.

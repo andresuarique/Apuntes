@@ -1,4 +1,4 @@
-# **Monohilo: implicaciones en diseño y seguridad**
+# Monohilo: implicaciones en diseño y seguridad
 
 Node, al ejecutar o procesar código en un solo hilo, presenta tanto ventajas como desafíos en términos de diseño y seguridad.
 

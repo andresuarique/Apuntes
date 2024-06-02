@@ -1,7 +1,6 @@
-
 # File System
 
-El File System (sistema de archivos) es uno de los [módulos](Modulos.md) principales que nos ofrece Node.js. Este módulo nos permite operar directamente con los archivos de nuestro sistema, permitiéndonos crear, leer, editar o eliminar archivos. Es muy importante tener en cuenta que la mayoría de los métodos de este módulo son [asíncronos](Asincronía.md), pero también se ofrecen versiones síncronas. Sin embargo, las versiones síncronas son poco recomendables, ya que pueden bloquear el [event loop](Event%20Loop.md) de Node.js.
+El File System (sistema de archivos) es uno de los [módulos](Módulos.md) principales que nos ofrece Node.js. Este módulo nos permite operar directamente con los archivos de nuestro sistema, permitiéndonos crear, leer, editar o eliminar archivos. Es muy importante tener en cuenta que la mayoría de los métodos de este módulo son [asíncronos](Asincronía.md), pero también se ofrecen versiones síncronas. Sin embargo, las versiones síncronas son poco recomendables, ya que pueden bloquear el [event loop](Event%20Loop.md) de Node.js.
 
 Para poder usar este módulo, debemos importarlo con `require` en una constante con el mismo nombre del módulo:
 

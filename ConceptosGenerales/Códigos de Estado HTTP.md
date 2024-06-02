@@ -1,6 +1,6 @@
 # Códigos de Estado HTTP
 
-Los códigos de estado [[HTTP|HTTP]] son indicadores numéricos que se utilizan en las respuestas HTTP para informar al cliente sobre el resultado de la solicitud que ha realizado al servidor. Estos códigos se dividen en diferentes categorías, cada una con un propósito específico. Aquí tienes una descripción de algunas de las categorías de códigos de estado HTTP más comunes:
+Los códigos de estado [HTTP](HTTP.md) son indicadores numéricos que se utilizan en las respuestas HTTP para informar al cliente sobre el resultado de la solicitud que ha realizado al servidor. Estos códigos se dividen en diferentes categorías, cada una con un propósito específico. Aquí tienes una descripción de algunas de las categorías de códigos de estado HTTP más comunes:
 
 ## 1xx: Respuestas Informativas
 

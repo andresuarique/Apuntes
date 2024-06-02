@@ -1,6 +1,6 @@
 # ¿Qué es Express?
 
-**Express** es el framework web más popular de [[Node js|Node.js]] y es la librería subyacente para un gran número de otros frameworks web populares de Node. Proporciona mecanismos para facilitar el desarrollo de aplicaciones web y APIs.
+**Express** es el framework web más popular de [Node.js](../Node%20js.md) y es la librería subyacente para un gran número de otros frameworks web populares de Node. Proporciona mecanismos para facilitar el desarrollo de aplicaciones web y APIs.
 
 ## Características de Express
 

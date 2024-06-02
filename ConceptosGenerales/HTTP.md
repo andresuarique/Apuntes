@@ -16,9 +16,9 @@ HTTP, que significa Protocolo de Transferencia de Hipertexto, es un protocolo de
 
 - **Cliente-Servidor:** En una comunicación HTTP, hay dos entidades principales: el cliente (generalmente un navegador web) y el servidor (que aloja los recursos web). El cliente envía solicitudes HTTP al servidor, y el servidor responde con los recursos solicitados.
 
-- **Métodos HTTP:** HTTP define diferentes [[Métodos HTTP|métodos]] de solicitud que indican la acción que se desea realizar sobre un recurso en el servidor, como GET para recuperar datos, POST para enviar datos al servidor, etc.
+- **Métodos HTTP:** HTTP define diferentes [métodos](Métodos%20HTTP.md) de solicitud que indican la acción que se desea realizar sobre un recurso en el servidor, como GET para recuperar datos, POST para enviar datos al servidor, etc.
 
-- **Códigos de Estado:** HTTP utiliza [[Códigos de Estado HTTP|códigos de estado]] para indicar el resultado de una solicitud, como 200 OK para una solicitud exitosa, 404 Not Found para un recurso no encontrado, etc.
+- **Códigos de Estado:** HTTP utiliza [códigos de estado](Códigos%20de%20Estado%20HTTP.md) para indicar el resultado de una solicitud, como 200 OK para una solicitud exitosa, 404 Not Found para un recurso no encontrado, etc.
 
 ## Seguridad:
 

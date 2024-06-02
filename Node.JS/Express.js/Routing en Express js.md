@@ -1,6 +1,6 @@
 # Aplicación del Routing en Express.js
 
-En Express.js, el [[Routing en Aplicaciones Web|routing]] se implementa mediante el uso de [[Métodos HTTP|métodos de solicitud HTTP]] para definir cómo la aplicación responde a las solicitudes de los clientes en puntos finales específicos. A continuación, se muestra cómo se aplica el routing en Express:
+En Express.js, el [routing](../../ConceptosGenerales/Routing%20en%20Aplicaciones%20Web.md) se implementa mediante el uso de [métodos de solicitud HTTP](../../ConceptosGenerales/Métodos%20HTTP.md) para definir cómo la aplicación responde a las solicitudes de los clientes en puntos finales específicos. A continuación, se muestra cómo se aplica el routing en Express:
 
 1. **Definición de Rutas:**
    - Las rutas se definen utilizando métodos de solicitud HTTP como `get`, `post`, `put`, `delete`, etc., en una instancia de Express (normalmente llamada `app`).
@@ -43,7 +43,7 @@ En Express.js, el [[Routing en Aplicaciones Web|routing]] se implementa mediante
    ```
 
 3. **Middleware de Rutas:**
-   - Express permite utilizar [[Middleware|middleware]] de rutas para realizar acciones específicas antes o después de que se ejecute el manejador de la ruta. Esto proporciona flexibilidad para agregar funcionalidades adicionales a las rutas, como la autenticación, la validación de datos, el registro de solicitudes, etc.
+   - Express permite utilizar [middleware](../../ConceptosGenerales/Middleware.md) de rutas para realizar acciones específicas antes o después de que se ejecute el manejador de la ruta. Esto proporciona flexibilidad para agregar funcionalidades adicionales a las rutas, como la autenticación, la validación de datos, el registro de solicitudes, etc.
 
    ```js
    app.get('/ruta', middleware, (req, res) => {

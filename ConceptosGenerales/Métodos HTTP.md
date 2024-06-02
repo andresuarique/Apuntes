@@ -1,6 +1,6 @@
 # Métodos HTTP
 
-Los métodos [[HTTP|HTTP]] son verbos que se utilizan para indicar la acción que se desea realizar sobre un recurso en un servidor web. Cada método tiene un significado específico y está diseñado para realizar una tarea particular. Aquí se presentan los métodos HTTP más comunes:
+Los métodos [HTTP](HTTP.md) son verbos que se utilizan para indicar la acción que se desea realizar sobre un recurso en un servidor web. Cada método tiene un significado específico y está diseñado para realizar una tarea particular. Aquí se presentan los métodos HTTP más comunes:
 
 ## GET
 

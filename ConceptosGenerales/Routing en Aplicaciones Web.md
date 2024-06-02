@@ -1,6 +1,6 @@
 # Routing en Aplicaciones Web
 
-El routing, o enrutamiento, es un concepto fundamental en el desarrollo de aplicaciones web. Se refiere al proceso de determinar cómo una aplicación responde a una solicitud de cliente a un punto final específico en particular, identificado por una URL y un [[Métodos HTTP|método de solicitud HTTP]] específico.
+El routing, o enrutamiento, es un concepto fundamental en el desarrollo de aplicaciones web. Se refiere al proceso de determinar cómo una aplicación responde a una solicitud de cliente a un punto final específico en particular, identificado por una URL y un [método de solicitud HTTP](Métodos%20HTTP.md) específico.
 
 ## Función del Routing
 

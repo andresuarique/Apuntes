@@ -3,7 +3,7 @@ Para empezar a usar Express.js en un proyecto, sigue estos pasos:
 
 ## Paso 1: Inicializar un Proyecto Node.js
 
-Primero, asegúrate de tener [[Node js|Node.js]] y [[npm|npm]] instalados en tu sistema. Puedes verificar esto ejecutando los siguientes comandos en tu terminal:
+Primero, asegúrate de tener [Node.js](../Node%20js.md) y [npm](../Fundamentos/npm.md) instalados en tu sistema. Puedes verificar esto ejecutando los siguientes comandos en tu terminal:
 
 ```sh
 node -v

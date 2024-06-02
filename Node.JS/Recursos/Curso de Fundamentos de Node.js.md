@@ -31,3 +31,6 @@ plataforma: Platzi
 	8. [[Modulo Process]]
 	9. [[npm]]
 	10. [[Importar y Exportar Modulos]]
+6. [[Buffers]]
+7. [[Streams]]
+8. 

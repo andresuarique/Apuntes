@@ -13,4 +13,4 @@ El funcionamiento asíncrono nos permite evitar que el hilo principal se bloquee
 
 Esto diferencia a Node.js de otros lenguajes como PHP, Python o Java, que son síncronos y realizan las operaciones una detrás de la otra.
 
-![[Pasted image 20240528185733.png]]
+![Pasted image 20240528185733.png](Pasted%20image%2020240528185733.png)

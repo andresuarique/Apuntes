@@ -10,6 +10,8 @@ Obsidian ofrece varias características que lo hacen ideal para gestionar este r
   
 - **Visualización en gráfico**: La vista en gráfico de Obsidian nos permite visualizar cómo están conectadas nuestras notas, lo que facilita la navegación y comprensión de la información.
 
+![Diseño sin título 1](ANEXOS/VistaGrafica.gif)
+
 - **Flexibilidad y personalización**: Obsidian es altamente personalizable gracias a su sistema de plugins y configuraciones. Esto nos permite adaptar la herramienta a nuestras necesidades específicas y mejorar nuestra productividad.
 
 Puedes descargar Obsidian desde su sitio web oficial: [Obsidian](https://obsidian.md/)

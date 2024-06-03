@@ -31,4 +31,4 @@ Los códigos de estado [HTTP](HTTP.md) son indicadores numéricos que se utiliza
 
 Estos son solo algunos ejemplos de los códigos de estado HTTP más comunes. Hay muchos más códigos de estado definidos en la especificación HTTP, cada uno con su propio significado y uso específico.
 
-![Pasted image 20240602172301](ANEXOS/Pasted%20image%2020240602172301.png)
+![Pasted image 20240602172301](ANEXOS/CódigosEstadoHTTP.png)

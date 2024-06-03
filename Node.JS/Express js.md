@@ -16,3 +16,4 @@
 	6. [Solución Problema CORS Express](Express.js/Solución%20Problema%20CORS%20Express.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)
+2. [[Curso de Backend con Node.js Base de Datos con PostgreSQL]]

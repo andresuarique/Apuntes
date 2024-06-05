@@ -14,6 +14,8 @@
 	5. [Middlewares en Express.js](Express.js/Middlewares%20en%20Express.js.md)
 		1. [Middlewares populares en Express.js](Express.js/Middlewares%20populares%20en%20Express.js.md)
 	6. [Solución Problema CORS Express](Express.js/Solución%20Problema%20CORS%20Express.md)
+	7. [Uso de Sequelize ORM en Express.js](Express.js/Uso%20de%20Sequelize%20ORM%20en%20Express.js.md)
+	8. [Uso de Modelos con Sequelize](Express.js/Uso%20de%20Modelos%20con%20Sequelize.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)
-2. [[Curso de Backend con Node.js Base de Datos con PostgreSQL]]
+2. [Curso de Backend con Node.js Base de Datos con PostgreSQL](Recursos/Curso%20de%20Backend%20con%20Node.js%20Base%20de%20Datos%20con%20PostgreSQL.md)

@@ -22,6 +22,8 @@
 	12. [Relaciones Uno a Muchos con Sequelize](Express.js/Relaciones%20Uno%20a%20Muchos%20con%20Sequelize.md)
 	13. [Manejo Asociaciones Uno a Muchos con Sequelize](Express.js/Manejo%20Asociaciones%20Uno%20a%20Muchos%20con%20Sequelize.md)
 	14. [Relaciones Muchos a Muchos con Sequelize](Express.js/Relaciones%20Muchos%20a%20Muchos%20con%20Sequelize.md)
+	15. [Paginación con Sequelize](Express.js/Paginación%20con%20Sequelize.md)
+	16. [Filtros en Consultas con Sequelize](Express.js/Filtros%20en%20Consultas%20con%20Sequelize.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)
 2. [Curso de Backend con Node.js Base de Datos con PostgreSQL](Recursos/Curso%20de%20Backend%20con%20Node.js%20Base%20de%20Datos%20con%20PostgreSQL.md)

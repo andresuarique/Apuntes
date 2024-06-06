@@ -26,6 +26,7 @@
 	16. [Filtros en Consultas con Sequelize](Express.js/Filtros%20en%20Consultas%20con%20Sequelize.md)
 	17. [Creación de un Middleware para la Verificación de API Key](Fundamentos/Creación%20de%20un%20Middleware%20para%20la%20Verificación%20de%20API%20Key.md)
 	18. [Hashing de Contraseñas con bcryptjs](Fundamentos/Hashing%20de%20Contraseñas%20con%20bcryptjs.md)
+	19. [Hashing de Contraseñas para Usuarios y Clientes](Fundamentos/Hashing%20de%20Contraseñas%20para%20Usuarios%20y%20Clientes.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)
 2. [Curso de Backend con Node.js Base de Datos con PostgreSQL](Recursos/Curso%20de%20Backend%20con%20Node.js%20Base%20de%20Datos%20con%20PostgreSQL.md)

@@ -24,6 +24,9 @@
 	14. [Relaciones Muchos a Muchos con Sequelize](Express.js/Relaciones%20Muchos%20a%20Muchos%20con%20Sequelize.md)
 	15. [Paginación con Sequelize](Express.js/Paginación%20con%20Sequelize.md)
 	16. [Filtros en Consultas con Sequelize](Express.js/Filtros%20en%20Consultas%20con%20Sequelize.md)
+	17. [Creación de un Middleware para la Verificación de API Key](Fundamentos/Creación%20de%20un%20Middleware%20para%20la%20Verificación%20de%20API%20Key.md)
+	18. [Hashing de Contraseñas con bcryptjs](Fundamentos/Hashing%20de%20Contraseñas%20con%20bcryptjs.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)
 2. [Curso de Backend con Node.js Base de Datos con PostgreSQL](Recursos/Curso%20de%20Backend%20con%20Node.js%20Base%20de%20Datos%20con%20PostgreSQL.md)
+3. [Curso de Backend con Node.js Autenticación con Passport.js y JWT](Recursos/Curso%20de%20Backend%20con%20Node.js%20Autenticación%20con%20Passport.js%20y%20JWT.md)

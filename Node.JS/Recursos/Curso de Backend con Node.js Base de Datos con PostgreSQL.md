@@ -7,7 +7,7 @@ tags:
 nombre: "Curso de Backend con Node.js: Base de Datos con PostgreSQL"
 autor: Nicolas Molina
 fecha creacion: 2021-10-06
-url: https://platzi.com/cursos/backend-nodejs/
+url: https://platzi.com/cursos/backend-nodejs-postgres/
 fecha visualización: 2024-06-03
 plataforma: Platzi
 ---

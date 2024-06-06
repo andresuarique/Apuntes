@@ -27,6 +27,11 @@
 	17. [Creación de un Middleware para la Verificación de API Key](Fundamentos/Creación%20de%20un%20Middleware%20para%20la%20Verificación%20de%20API%20Key.md)
 	18. [Hashing de Contraseñas con bcryptjs](Fundamentos/Hashing%20de%20Contraseñas%20con%20bcryptjs.md)
 	19. [Hashing de Contraseñas para Usuarios y Clientes](Fundamentos/Hashing%20de%20Contraseñas%20para%20Usuarios%20y%20Clientes.md)
+	20. [Passport.js](Express.js/Passport.js.md)
+	21. [Passport.js en Express.js](Express.js/Passport.js%20en%20Express.js.md)
+	22. [Firmar y Verificar Tokens JWT con Express](Express.js/Firmar%20y%20Verificar%20Tokens%20JWT%20con%20Express.md)
+	23. [Generar JWT en Servicios de Express](Express.js/Generar%20JWT%20en%20Servicios%20de%20Express.md)
+	24. [Proteger Rutas con JWT en Express](Express.js/Proteger%20Rutas%20con%20JWT%20en%20Express.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)
 2. [Curso de Backend con Node.js Base de Datos con PostgreSQL](Recursos/Curso%20de%20Backend%20con%20Node.js%20Base%20de%20Datos%20con%20PostgreSQL.md)

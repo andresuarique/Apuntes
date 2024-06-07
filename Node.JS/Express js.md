@@ -32,6 +32,10 @@
 	22. [Firmar y Verificar Tokens JWT con Express](Express.js/Firmar%20y%20Verificar%20Tokens%20JWT%20con%20Express.md)
 	23. [Generar JWT en Servicios de Express](Express.js/Generar%20JWT%20en%20Servicios%20de%20Express.md)
 	24. [Proteger Rutas con JWT en Express](Express.js/Proteger%20Rutas%20con%20JWT%20en%20Express.md)
+	25. [Control de Roles en Express](Express.js/Control%20de%20Roles%20en%20Express.md)
+	26. [Manejo de Autenticación desde el Cliente](../ConceptosGenerales/Manejo%20de%20Autenticación%20desde%20el%20Cliente.md)
+	27. [Envío de Correo en Express](Express.js/Envío%20de%20Correo%20en%20Express.md)
+	28. [Implementando servicio de envío de emails](Express.js/Implementando%20servicio%20de%20envío%20de%20emails.md)
 # Recursos
 1. [Curso de Backend con Node.js API REST con Express.js](Recursos/Curso%20de%20Backend%20con%20Node.js%20API%20REST%20con%20Express.js.md)
 2. [Curso de Backend con Node.js Base de Datos con PostgreSQL](Recursos/Curso%20de%20Backend%20con%20Node.js%20Base%20de%20Datos%20con%20PostgreSQL.md)

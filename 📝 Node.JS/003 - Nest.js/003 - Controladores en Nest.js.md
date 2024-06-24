@@ -21,6 +21,17 @@ Los controladores en Nest.js son los encargados de recibir los requests de nuest
 
 Los controladores se definen con una clase acompañada de un decorador, que indica el comportamiento de dicho controlador.
 
+### Creación de un Controlador
+
+Para construir un controlador podemos usar el CLI de Nest. Para crear la clase de un controlador, se puede lanzar uno de los siguientes comandos:
+
+```bash
+nest generate controller products
+# o usando la abreviatura
+nest g c products
+```
+
+Además, este comando realiza automáticamente la modificación del archivo `app.module.ts` para incluir el nuevo controlador.
 ### Decoradores Comunes
 
 - `@Controller()`: Define que la clase es un controlador.

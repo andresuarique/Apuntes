@@ -15,5 +15,12 @@
 - [013 - Data Transfer Objects (DTO) en Nest.js](003%20-%20Nest.js/013%20-%20Data%20Transfer%20Objects%20(DTO)%20en%20Nest.js.md)
 - [014 - Validación de Parámetros con Class-Validator y Mapped-Types](003%20-%20Nest.js/014%20-%20Validación%20de%20Parámetros%20con%20Class-Validator%20y%20Mapped-Types.md)
 - [015 - Cómo Evitar Parámetros Incorrectos en Nest.js](003%20-%20Nest.js/015%20-%20Cómo%20Evitar%20Parámetros%20Incorrectos%20en%20Nest.js.md)
+- [016 - Programación Modular con NestJS](003%20-%20Nest.js/016%20-%20Programación%20Modular%20con%20NestJS.md)
+- [017 - Interacción entre Módulos en NestJS](003%20-%20Nest.js/017%20-%20Interacción%20entre%20Módulos%20en%20NestJS.md)
+- [018 - Inyección de Dependencias en NestJS](003%20-%20Nest.js/018%20-%20Inyección%20de%20Dependencias%20en%20NestJS.md)
+- [019 - Inyección de Dependencias con useClass y useValue en NestJS](003%20-%20Nest.js/019%20-%20Inyección%20de%20Dependencias%20con%20useClass%20y%20useValue%20en%20NestJS.md)
+- [020 - Inyección de Dependencias con useFactory en NestJS](003%20-%20Nest.js/020%20-%20Inyección%20de%20Dependencias%20con%20useFactory%20en%20NestJS.md)
+- [021 - Uso de Módulos Globales en NestJS](003%20-%20Nest.js/021%20-%20Uso%20de%20Módulos%20Globales%20en%20NestJS.md)
 # Recursos
 - [Curso de Backend con NestJS](📚%20Recursos/Curso%20de%20Backend%20con%20NestJS.md)
+- [Curso de NestJS Programación Modular, Documentación con Swagger y Deploy](📚%20Recursos/Curso%20de%20NestJS%20Programación%20Modular,%20Documentación%20con%20Swagger%20y%20Deploy.md)

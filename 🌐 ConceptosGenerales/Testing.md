@@ -18,7 +18,7 @@ En estas fases, detectar un error se vuelve cada vez más costoso a medida que a
 # La pirámide del testing
 La pirámide del testing es un modelo que sugiere una proporción adecuada de diferentes tipos de pruebas en el desarrollo de software.
 
-![[Pasted image 20240727182038.png]]
+![Pasted image 20240727182038](📎%20ANEXOS/Pasted%20image%2020240727182038.png)
 ## Unit Test
 - Aplicado al código de producción.
 - Pruebas estáticas.

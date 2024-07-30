@@ -60,4 +60,3 @@ Comprueba si una función lanza una excepción.
 ```javascript
 expect(() => { throw new Error(); }).toThrow();
 ```
-```

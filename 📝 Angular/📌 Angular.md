@@ -5,6 +5,7 @@
 - [004 - Property Binding en Angular](001%20-%20Fundamentos/004%20-%20Property%20Binding%20en%20Angular.md)
 - [005 - Event Binding en Angular](001%20-%20Fundamentos/005%20-%20Event%20Binding%20en%20Angular.md)
 - [006 - Modelo de Reactividad de Signals en Angular](001%20-%20Fundamentos/006%20-%20Modelo%20de%20Reactividad%20de%20Signals%20en%20Angular.md)
+- [007 - Estructuras de Control en Angular](001%20-%20Fundamentos/007%20-%20Estructuras%20de%20Control%20en%20Angular.md)
 
 # Recursos
 - [Curso de Angular 17 - Creación de Aplicaciones Web](📚%20Recursos/Curso%20de%20Angular%2017%20-%20Creación%20de%20Aplicaciones%20Web.md)

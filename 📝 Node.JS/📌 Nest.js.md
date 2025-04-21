@@ -22,6 +22,9 @@
 - [020 - Inyección de Dependencias con useFactory en NestJS](003%20-%20Nest.js/020%20-%20Inyección%20de%20Dependencias%20con%20useFactory%20en%20NestJS.md)
 - [021 - Uso de Módulos Globales en NestJS](003%20-%20Nest.js/021%20-%20Uso%20de%20Módulos%20Globales%20en%20NestJS.md)
 - [022 - Generar la Documentación con Swagger en NestJS](003%20-%20Nest.js/022%20-%20Generar%20la%20Documentación%20con%20Swagger%20en%20NestJS.md)
+- [[023 - Configuración de TypeORM en NestJS]]
+- [[024 - Creación de Entidades en NestJS con TypeORM]]
+- [[025 - Uso de Repositorios en TypeORM con NestJS]]
 # Recursos
 - [Curso de Backend con NestJS](📚%20Recursos/Curso%20de%20Backend%20con%20NestJS.md)
 - [Curso de NestJS Programación Modular, Documentación con Swagger y Deploy](📚%20Recursos/Curso%20de%20NestJS%20Programación%20Modular,%20Documentación%20con%20Swagger%20y%20Deploy.md)

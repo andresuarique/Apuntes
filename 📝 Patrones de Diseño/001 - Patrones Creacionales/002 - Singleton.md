@@ -1,5 +1,5 @@
 # Singleton
-El patrón Singleton es un [[001 - Patrones de Diseño|patrón]] creacional que asegura que una clase tenga una única instancia y proporciona un punto de acceso global a ella. Este patrón es útil cuando se necesita controlar el acceso a recursos compartidos, como configuraciones, conexiones a bases de datos o registros de logging.
+El patrón Singleton es un [patrón](../001%20-%20Patrones%20de%20Diseño.md) creacional que asegura que una clase tenga una única instancia y proporciona un punto de acceso global a ella. Este patrón es útil cuando se necesita controlar el acceso a recursos compartidos, como configuraciones, conexiones a bases de datos o registros de logging.
 
 ## Concepto
 El patrón Singleton restringe la instanciación de una clase a un único objeto. Esto es especialmente importante en situaciones donde es necesario garantizar que solo exista una instancia, como en la gestión de recursos.

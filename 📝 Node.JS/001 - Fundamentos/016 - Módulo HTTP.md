@@ -4,7 +4,7 @@ Node.js nos ofrece el [módulo](010%20-%20Módulos.md) HTTP, el cual nos permite
 
 ## Características del Módulo HTTP
 
-- **Creación de Servidores**: Permite crear servidores [HTTP](../../🌐%20ConceptosGenerales/HTTP.md) que pueden manejar solicitudes y enviar respuestas.
+- **Creación de Servidores**: Permite crear servidores [HTTP](HTTP.md) que pueden manejar solicitudes y enviar respuestas.
 - **Gestión de Rutas**: Puedes definir diferentes rutas y cómo responderá el servidor a cada una.
 - **Manipulación de Headers**: Facilita el envío y la gestión de headers HTTP.
 

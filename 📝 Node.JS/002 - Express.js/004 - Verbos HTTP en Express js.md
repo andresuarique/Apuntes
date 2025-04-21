@@ -1,6 +1,6 @@
 # Aplicación de Verbos HTTP en Express.js
 
-En Express.js, los[ verbos HTTP](../../🌐%20ConceptosGenerales/Métodos%20HTTP.md) se utilizan para definir las operaciones que se pueden realizar en diferentes rutas de una aplicación. A continuación, se muestra cómo se aplican los principales verbos HTTP en Express.js:
+En Express.js, los[ verbos HTTP](Métodos%20HTTP.md) se utilizan para definir las operaciones que se pueden realizar en diferentes rutas de una aplicación. A continuación, se muestra cómo se aplican los principales verbos HTTP en Express.js:
 
 ## GET
 

@@ -1,5 +1,5 @@
 # Tu primer test
-Vamos a experimentar un poco con Jest. Crearemos varias funciones matemáticas y sus respectivos [tests](../../🌐%20ConceptosGenerales/Testing.md).
+Vamos a experimentar un poco con Jest. Crearemos varias funciones matemáticas y sus respectivos [tests](001%20-%20Testing.md).
 
 ## Creación del archivo math.js
 ```javascript

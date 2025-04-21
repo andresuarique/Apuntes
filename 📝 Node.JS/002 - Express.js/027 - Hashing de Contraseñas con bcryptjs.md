@@ -1,6 +1,6 @@
 # Hashing de Contraseñas con bcryptjs
 
-El hashing de contraseñas convierte una contraseña en un [hash](../../🌐%20ConceptosGenerales/Hash.md) cifrado, asegurando que no se almacene en su forma original en la base de datos, mejorando así la seguridad.
+El hashing de contraseñas convierte una contraseña en un [hash](Hash.md) cifrado, asegurando que no se almacene en su forma original en la base de datos, mejorando así la seguridad.
 
 ## Instalación de bcryptjs
 

@@ -1,6 +1,6 @@
 # Hashing de Contraseñas para Usuarios y Clientes
 
-Para garantizar la seguridad de las contraseñas en una aplicación, es fundamental [hashear](../../🌐%20ConceptosGenerales/Hash.md) las contraseñas antes de almacenarlas en la base de datos. Aquí se muestra cómo implementar el hashing de contraseñas en los servicios de usuarios y clientes utilizando bcryptjs.
+Para garantizar la seguridad de las contraseñas en una aplicación, es fundamental [hashear](Hash.md) las contraseñas antes de almacenarlas en la base de datos. Aquí se muestra cómo implementar el hashing de contraseñas en los servicios de usuarios y clientes utilizando bcryptjs.
 ## Servicio de Usuario (user.service.js)
 
 En el servicio de usuario, el hashing de contraseñas se realiza antes de almacenar los datos en la base de datos. Además, se elimina la contraseña de la respuesta para evitar que se devuelva al cliente.

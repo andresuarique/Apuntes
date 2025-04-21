@@ -1,6 +1,6 @@
 # Programación Modular con NestJS
 
-Las aplicaciones profesionales que se desarrollan con NestJS se realizan de forma [modularizada](../../🌐%20ConceptosGenerales/Programación%20Modular.md) para dividir el código fuente de forma lógica y que el proyecto sea más escalable y comprensible.
+Las aplicaciones profesionales que se desarrollan con NestJS se realizan de forma [modularizada](Programación%20Modular.md) para dividir el código fuente de forma lógica y que el proyecto sea más escalable y comprensible.
 
 #### Cómo hacer la modularización de un proyecto en NestJS
 

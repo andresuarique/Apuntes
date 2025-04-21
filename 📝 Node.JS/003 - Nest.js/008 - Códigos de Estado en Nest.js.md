@@ -2,7 +2,7 @@
 
 ### Códigos de Estado
 
-En el contexto de una API, los [códigos de estado HTTP](../../🌐%20ConceptosGenerales/Códigos%20de%20Estado%20HTTP.md) son cruciales para indicar el resultado de una solicitud. Nest.js permite configurar y utilizar códigos de estado personalizados.
+En el contexto de una API, los [códigos de estado HTTP](Códigos%20de%20Estado%20HTTP.md) son cruciales para indicar el resultado de una solicitud. Nest.js permite configurar y utilizar códigos de estado personalizados.
 
 ### Recurso Recomendado
 

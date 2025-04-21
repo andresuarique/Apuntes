@@ -1,6 +1,6 @@
 # Envío de Códigos de Estado en Express.js
 
-En Express.js, puedes enviar[ códigos de estado HTTP](../../🌐%20ConceptosGenerales/Códigos%20de%20Estado%20HTTP.md) en las respuestas a las solicitudes para indicar el resultado de la operación. Aquí tienes cómo hacerlo:
+En Express.js, puedes enviar[ códigos de estado HTTP](Códigos%20de%20Estado%20HTTP.md) en las respuestas a las solicitudes para indicar el resultado de la operación. Aquí tienes cómo hacerlo:
 
 ## Usando `res.status()` junto con `res.send()`
 

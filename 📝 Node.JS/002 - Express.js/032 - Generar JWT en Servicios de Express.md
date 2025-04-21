@@ -2,7 +2,7 @@
 
 ## Introducción
 
-En una aplicación Express, [JWT (JSON Web Tokens)](JWT%20(JSON%20Web%20Token).md) se utiliza para [autenticar y autorizar](../../🌐%20ConceptosGenerales/Autenticación%20vs%20Autorización.md) usuarios. Una vez autenticados, se genera un token que el cliente puede usar para acceder a recursos protegidos. Este proceso implica la autenticación inicial del usuario, la creación de un payload con los datos del usuario, y la firma de un token con una clave secreta.
+En una aplicación Express, [JWT (JSON Web Tokens)](JWT%20(JSON%20Web%20Token).md) se utiliza para [autenticar y autorizar](Autenticación%20vs%20Autorización.md) usuarios. Una vez autenticados, se genera un token que el cliente puede usar para acceder a recursos protegidos. Este proceso implica la autenticación inicial del usuario, la creación de un payload con los datos del usuario, y la firma de un token con una clave secreta.
 
 ## Implementación del JWT en el Archivo `auth.route.js`
 

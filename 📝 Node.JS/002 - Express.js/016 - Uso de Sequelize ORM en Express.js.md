@@ -1,6 +1,6 @@
 # Configuración y Uso de Sequelize con Queries
 
-Sequelize es un [ORM](../../🌐%20ConceptosGenerales/ORM.md) (Object-Relational Mapping) basado en promesas para Node.js y soporta diferentes bases de datos SQL como MySQL, PostgreSQL, SQLite y MariaDB. Integrar Sequelize con una aplicación Express.js facilita la interacción con bases de datos mediante un enfoque orientado a objetos.
+Sequelize es un [ORM](ORM.md) (Object-Relational Mapping) basado en promesas para Node.js y soporta diferentes bases de datos SQL como MySQL, PostgreSQL, SQLite y MariaDB. Integrar Sequelize con una aplicación Express.js facilita la interacción con bases de datos mediante un enfoque orientado a objetos.
 ## Instalación
 
 Para empezar a usar Sequelize, primero necesitas instalar Sequelize y el driver de la base de datos que vayas a utilizar. Por ejemplo, para MySQL:

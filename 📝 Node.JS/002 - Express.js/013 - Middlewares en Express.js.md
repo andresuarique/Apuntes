@@ -1,6 +1,6 @@
 # Middleware en Express.js
 
-El [middleware](../../🌐%20ConceptosGenerales/Middleware.md) en Express.js se refiere a funciones que se ejecutan durante el ciclo de vida de una solicitud [HTTP](../../🌐%20ConceptosGenerales/HTTP.md) antes de que esta llegue a su manejador final. Los middlewares pueden modificar la solicitud (`req`), la respuesta (`res`) y tomar decisiones sobre si continuar con la cadena de middleware o finalizar la respuesta.
+El [middleware](Middleware.md) en Express.js se refiere a funciones que se ejecutan durante el ciclo de vida de una solicitud [HTTP](HTTP.md) antes de que esta llegue a su manejador final. Los middlewares pueden modificar la solicitud (`req`), la respuesta (`res`) y tomar decisiones sobre si continuar con la cadena de middleware o finalizar la respuesta.
 
 ## Tipos de Middleware
 

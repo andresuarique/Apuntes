@@ -1,4 +1,4 @@
-*ver [Arquitectura de Capas](../../🌐%20ConceptosGenerales/Arquitectura%20de%20Capas.md)*
+*ver [Arquitectura de Capas](Arquitectura%20de%20Capas.md)*
 # Creación de Servicios en Express.js
 
 Los servicios en una aplicación Express.js se utilizan para encapsular la lógica de negocio. Esto ayuda a mantener el código organizado, modular y fácil de mantener. A continuación, se describe cómo crear y utilizar servicios en Express.js.

@@ -1,5 +1,5 @@
 # Setup / Teardown en Jest
-En Jest, se utilizan cláusulas para aislar las [pruebas](../../🌐%20ConceptosGenerales/Testing.md) y asegurar que un escenario de pruebas no afecte a otro. Esto se logra mediante la agrupación de casos con `describe()` y el uso de hooks para el setup y teardown.
+En Jest, se utilizan cláusulas para aislar las [pruebas](001%20-%20Testing.md) y asegurar que un escenario de pruebas no afecte a otro. Esto se logra mediante la agrupación de casos con `describe()` y el uso de hooks para el setup y teardown.
 
 ## Describe
 Se puede encerrar varios `test()` dentro de `describe()`. Esto ayuda a mejorar la lectura y el encapsulamiento de las pruebas.

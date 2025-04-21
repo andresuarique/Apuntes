@@ -4,7 +4,7 @@ Para crear un endpoint que maneje peticiones de tipo POST en Express.js, es impo
 
 ## Configuración del Servidor
 
-En el archivo principal de tu aplicación, generalmente llamado `index.js` o `app.js`, asegúrate de configurar Express para que pueda procesar los datos enviados en formato JSON. Esto se puede lograr utilizando el [middleware](../../🌐%20ConceptosGenerales/Middleware.md) `express.json()` proporcionado por Express. Asegúrate de agregar esta configuración antes de definir tus rutas:
+En el archivo principal de tu aplicación, generalmente llamado `index.js` o `app.js`, asegúrate de configurar Express para que pueda procesar los datos enviados en formato JSON. Esto se puede lograr utilizando el [middleware](Middleware.md) `express.json()` proporcionado por Express. Asegúrate de agregar esta configuración antes de definir tus rutas:
 
 ```javascript
 const express = require('express');

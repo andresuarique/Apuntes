@@ -8,7 +8,7 @@ Se crea una carpeta llamada `routes` en la raíz del proyecto, donde se almacena
 
 ## Definición de Rutas
 
-En cada archivo de enrutador, se define un enrutador utilizando `express.Router()`. Se definen las rutas específicas para esa entidad utilizando los [métodos HTTP](../../🌐%20ConceptosGenerales/Métodos%20HTTP.md) correspondientes, como `get()`, `post()`, `put()`, `delete()`, etc.
+En cada archivo de enrutador, se define un enrutador utilizando `express.Router()`. Se definen las rutas específicas para esa entidad utilizando los [métodos HTTP](Métodos%20HTTP.md) correspondientes, como `get()`, `post()`, `put()`, `delete()`, etc.
 
 Por ejemplo, en `product.router.js`:
 

@@ -1,6 +1,6 @@
 #  Manejo de Errores en Nest.js
 
-Nest.js implementa de forma muy sencilla la posibilidad de responder con errores al cliente que realiza las consultas. Esto lo hace con una serie de clases que implementan los [códigos HTTP](../../🌐%20ConceptosGenerales/Códigos%20de%20Estado%20HTTP.md) correctos dependiendo del tipo de error que necesites.
+Nest.js implementa de forma muy sencilla la posibilidad de responder con errores al cliente que realiza las consultas. Esto lo hace con una serie de clases que implementan los [códigos HTTP](Códigos%20de%20Estado%20HTTP.md) correctos dependiendo del tipo de error que necesites.
 
 ## Ejemplo Básico de Manejo de Errores
 

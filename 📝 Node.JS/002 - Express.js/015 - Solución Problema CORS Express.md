@@ -2,7 +2,7 @@
 
 ## Habilitar CORS en Express
 
-Para resolver el problema de CORS en una aplicación Express, se utiliza el middleware `cors` que permite configurar de manera flexible las [políticas de CORS](../../🌐%20ConceptosGenerales/CORS.md). Aquí hay una guía paso a paso para habilitar y configurar CORS en Express.
+Para resolver el problema de CORS en una aplicación Express, se utiliza el middleware `cors` que permite configurar de manera flexible las [políticas de CORS](CORS.md). Aquí hay una guía paso a paso para habilitar y configurar CORS en Express.
 
 ### Habilitar CORS para Todos los Orígenes
 

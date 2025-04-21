@@ -68,4 +68,4 @@ Para manejar la expiración de los tokens y asegurar que los usuarios no tengan 
 2. **Expiración del token de acceso**: Cuando el token de acceso expira, el cliente usa el refresh token para solicitar un nuevo token de acceso.
 3. **Expiración del refresh token**: Requiere que el usuario se vuelva a autenticar completamente.
 
-*ver [Manejo de Autenticación desde el Cliente](../../🌐%20ConceptosGenerales/Manejo%20de%20Autenticación%20desde%20el%20Cliente.md)*
+*ver [Manejo de Autenticación desde el Cliente](Manejo%20de%20Autenticación%20desde%20el%20Cliente.md)*

@@ -1,6 +1,6 @@
 # Passport.js
 
-**Passport.js** es un [middleware](013%20-%20Middlewares%20en%20Express.js.md) de [autenticación](../../🌐%20ConceptosGenerales/Autenticación%20vs%20Autorización.md) para Node.js que facilita la implementación de diferentes estrategias de autenticación en aplicaciones web. 
+**Passport.js** es un [middleware](013%20-%20Middlewares%20en%20Express.js.md) de [autenticación](Autenticación%20vs%20Autorización.md) para Node.js que facilita la implementación de diferentes estrategias de autenticación en aplicaciones web. 
 
 # ¿Para qué sirve Passport.js?
 

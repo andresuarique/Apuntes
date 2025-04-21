@@ -1,5 +1,5 @@
 # Factory Method
-El patrón Factory Method es un patrón creacional que proporciona una interfaz para crear objetos en una superclase, pero permite que las subclases decidan qué clase instanciar. Este patrón ayuda a delegar la responsabilidad de creación de objetos, promoviendo la flexibilidad y la extensibilidad del código.
+El patrón Factory Method es un [[001 - Patrones de Diseño|patrón]] creacional que proporciona una interfaz para crear objetos en una superclase, pero permite que las subclases decidan qué clase instanciar. Este patrón ayuda a delegar la responsabilidad de creación de objetos, promoviendo la flexibilidad y la extensibilidad del código.
 
 ## Concepto
 El patrón Factory Method permite que las clases instanciadas sean determinadas en tiempo de ejecución, lo que facilita el uso de nuevas clases sin modificar el código existente.

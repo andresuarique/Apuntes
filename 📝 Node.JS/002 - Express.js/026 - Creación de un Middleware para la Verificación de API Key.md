@@ -1,12 +1,12 @@
 # Creación de un Middleware para la Verificación de API Key
 
-Un [middleware](013%20-%20Middlewares%20en%20Express.js.md) de verificación de API Key actúa como una capa de [autenticación](../../🌐%20ConceptosGenerales/Autenticación%20vs%20Autorización.md) en una aplicación web. Su función es verificar si la solicitud entrante contiene una API Key válida en los headers y, dependiendo de la validación, permitir o denegar el acceso a los recursos de la aplicación.
+Un [middleware](013%20-%20Middlewares%20en%20Express.js.md) de verificación de API Key actúa como una capa de [autenticación](Autenticación%20vs%20Autorización.md) en una aplicación web. Su función es verificar si la solicitud entrante contiene una API Key válida en los headers y, dependiendo de la validación, permitir o denegar el acceso a los recursos de la aplicación.
 
 ## Pasos para Implementar el Middleware
 
 1. **Instalación de Dependencias**:
    Asegúrate de tener las siguientes dependencias instaladas:
-   - `@hapi/boom`: Para manejar errores [HTTP](../../🌐%20ConceptosGenerales/HTTP.md) de forma elegante.
+   - `@hapi/boom`: Para manejar errores [HTTP](HTTP.md) de forma elegante.
    - `dotenv`: Para manejar variables de entorno.
 
 2. **Crear el Middleware**:

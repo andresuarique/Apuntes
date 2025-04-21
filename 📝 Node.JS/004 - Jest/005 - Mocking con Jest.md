@@ -1,6 +1,6 @@
 # Mocking con Jest
 
-El mocking es una técnica utilizada en [pruebas](../../🌐%20ConceptosGenerales/Testing.md) para suplantar dependencias y controlar el comportamiento de las mismas. En Jest, se puede usar el método `jest.mock` para reemplazar módulos o clases con implementaciones simuladas.
+El mocking es una técnica utilizada en [pruebas](001%20-%20Testing.md) para suplantar dependencias y controlar el comportamiento de las mismas. En Jest, se puede usar el método `jest.mock` para reemplazar módulos o clases con implementaciones simuladas.
 
 ## Suplantando MongoLib
 
@@ -52,4 +52,4 @@ jest.clearAllMocks();
 
 Este método asegura que todos los mocks sean limpiados entre las pruebas para evitar resultados inesperados.
 
-*ver: [Doubles en Testing](../../🌐%20ConceptosGenerales/Doubles%20en%20Testing.md)*
+*ver: [006 - Doubles en Testing](006%20-%20Doubles%20en%20Testing.md)*

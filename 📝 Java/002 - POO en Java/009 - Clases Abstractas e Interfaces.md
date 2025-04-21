@@ -3,7 +3,7 @@
 Las **clases abstractas** y **interfaces** son dos conceptos fundamentales en la programación orientada a objetos en Java. Aunque ambos permiten definir contratos para las clases que los implementan o heredan, tienen características y comportamientos distintos. A continuación, detallo las diferencias y ejemplos para ilustrar cómo se usan en la práctica.
 ## **Clases Abstractas**
 
-Una **clase abstracta** es una [[001 - Clases en Java|clase]] que no puede ser instanciada directamente. Se utiliza como una clase base para otras clases. Puede contener tanto métodos abstractos (sin implementación) como métodos concretos (con implementación). Las clases hijas deben implementar los métodos abstractos a menos que también sean abstractas.
+Una **clase abstracta** es una [clase](001%20-%20Clases%20en%20Java.md) que no puede ser instanciada directamente. Se utiliza como una clase base para otras clases. Puede contener tanto métodos abstractos (sin implementación) como métodos concretos (con implementación). Las clases hijas deben implementar los métodos abstractos a menos que también sean abstractas.
 
 ### **Características principales:**
 

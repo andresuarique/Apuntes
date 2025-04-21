@@ -1,6 +1,6 @@
 # **Sintaxis en Java**
 
-[[001 - ¿Qué es Java?|Java]] es un lenguaje **fuertemente tipado**, lo que significa que debes especificar el tipo de dato de cada variable.
+[Java](001%20-%20¿Qué%20es%20Java?) es un lenguaje **fuertemente tipado**, lo que significa que debes especificar el tipo de dato de cada variable.
 
 - **Case sensitive**: Java diferencia entre mayúsculas y minúsculas.
 - **Terminación de líneas**: Cada línea de código debe finalizar con un punto y coma (`;`).

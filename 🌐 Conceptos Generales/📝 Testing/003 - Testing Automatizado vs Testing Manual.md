@@ -1,7 +1,7 @@
 ### Testing Manual
 
 - **Ejecutado por testers** que simulan las acciones del usuario final, basándose en **casos de prueba**.
-- Principalmente utilizado para [[001 - Testing|pruebas]] **funcionales**, de **usabilidad** y **exploratorias**.
+- Principalmente utilizado para [pruebas](001%20-%20Testing.md) **funcionales**, de **usabilidad** y **exploratorias**.
 - Permite detectar fallas y reportarlas manualmente.
 
 ### Testing Automatizado

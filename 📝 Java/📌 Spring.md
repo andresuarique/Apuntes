@@ -1,12 +1,12 @@
 # Índice
-- [[001 - Arquitectura Cliente-Servidor]]
-- [[002 - MVC + API]]
-- [[003 - Creando una API]]
-- [[004 - Anotaciones]]
-- [[005 - Metodos HTTP]]
-- [[006 - DTO]]
-- [[007 - Arquitectura Multicapa]]
-- [[008 - Inversion of Control]]
-- [[009 - Inyección de dependencias]]
-- [[010 - Exception Handler]]
-- [[011 - JUnit]]
+- [001 - Arquitectura Cliente-Servidor](003%20-%20Spring/001%20-%20Arquitectura%20Cliente-Servidor.md)
+- [002 - MVC + API](003%20-%20Spring/002%20-%20MVC%20+%20API.md)
+- [003 - Creando una API](003%20-%20Spring/003%20-%20Creando%20una%20API.md)
+- [004 - Anotaciones](003%20-%20Spring/004%20-%20Anotaciones.md)
+- [005 - Metodos HTTP](003%20-%20Spring/005%20-%20Metodos%20HTTP.md)
+- [006 - DTO](003%20-%20Spring/006%20-%20DTO.md)
+- [007 - Arquitectura Multicapa](003%20-%20Spring/007%20-%20Arquitectura%20Multicapa.md)
+- [008 - Inversion of Control](003%20-%20Spring/008%20-%20Inversion%20of%20Control.md)
+- [009 - Inyección de dependencias](003%20-%20Spring/009%20-%20Inyección%20de%20dependencias.md)
+- [010 - Exception Handler](003%20-%20Spring/010%20-%20Exception%20Handler.md)
+- [011 - JUnit](003%20-%20Spring/011%20-%20JUnit.md)

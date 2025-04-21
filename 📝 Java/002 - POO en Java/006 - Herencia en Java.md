@@ -1,6 +1,6 @@
 # Encapsulamiento
 
-El **encapsulamiento** es uno de los pilares de la programación orientada a objetos. Consiste en **ocultar los detalles internos de una [[001 - Clases en Java|clase]]** y exponer solo lo necesario a través de una interfaz pública. De esta manera, se protege el estado del objeto y se promueve un acceso controlado a sus datos.
+El **encapsulamiento** es uno de los pilares de la programación orientada a objetos. Consiste en **ocultar los detalles internos de una [clase](001%20-%20Clases%20en%20Java.md)** y exponer solo lo necesario a través de una interfaz pública. De esta manera, se protege el estado del objeto y se promueve un acceso controlado a sus datos.
 
 ## Modificadores de acceso en Java
 

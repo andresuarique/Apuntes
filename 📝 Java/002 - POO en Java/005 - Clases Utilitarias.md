@@ -1,6 +1,6 @@
 # Clases Utilitarias en Java
 
-Las **clases utilitarias** en Java son [[001 - Clases en Java|clases]] que agrupan métodos estáticos para realizar tareas comunes sin necesidad de crear instancias. Su propósito es mejorar la reutilización del código y centralizar lógica de apoyo en un solo lugar.
+Las **clases utilitarias** en Java son [clases](001%20-%20Clases%20en%20Java.md) que agrupan métodos estáticos para realizar tareas comunes sin necesidad de crear instancias. Su propósito es mejorar la reutilización del código y centralizar lógica de apoyo en un solo lugar.
 
 ## Características
 

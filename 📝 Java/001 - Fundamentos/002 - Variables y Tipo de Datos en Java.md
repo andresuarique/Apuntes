@@ -6,7 +6,7 @@ Una **variable** es una posición de memoria que se reserva para almacenar un da
 
 ### **Tipos de datos**
 
-Los tipos de datos definen qué tipo de valor puede almacenar una variable y los límites de tamaño a tener en cuenta. En [[001 - ¿Qué es Java?|Java]], existen **tipos de datos primitivos** y **clases** que actúan como tipos de datos.
+Los tipos de datos definen qué tipo de valor puede almacenar una variable y los límites de tamaño a tener en cuenta. En [Java](001%20-%20¿Qué%20es%20Java?), existen **tipos de datos primitivos** y **clases** que actúan como tipos de datos.
 
 #### **Tipos numéricos**
 

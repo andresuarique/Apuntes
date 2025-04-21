@@ -1,5 +1,5 @@
 # **Estructuras de Control**
-A continuación se definen las estructuras de control en [[001 - ¿Qué es Java?|Java]]:
+A continuación se definen las estructuras de control en [Java](001%20-%20¿Qué%20es%20Java?):
 
 ## **Estructuras Selectivas**
 

@@ -1,5 +1,5 @@
 ## **Operadores**
-A continuación se mencionan los operadores de [[001 - ¿Qué es Java?|Java]]:
+A continuación se mencionan los operadores de [Java](001%20-%20¿Qué%20es%20Java?):
 
 ### **Operadores aritméticos**
 

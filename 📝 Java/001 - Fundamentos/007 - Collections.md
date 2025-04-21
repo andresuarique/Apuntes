@@ -2,7 +2,7 @@
 
 ## **Definición**
 
-- Las **Collections** son estructuras dinámicas que permiten almacenar y manipular conjuntos de objetos o elementos en [[001 - ¿Qué es Java?|Java]].
+- Las **Collections** son estructuras dinámicas que permiten almacenar y manipular conjuntos de objetos o elementos en [Java](001%20-%20¿Qué%20es%20Java?).
 - Se implementan mediante la interfaz **Collection**, que define métodos comunes para:
     - Añadir elementos.
     - Eliminar elementos.

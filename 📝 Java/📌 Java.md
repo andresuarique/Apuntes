@@ -1,19 +1,19 @@
 # Índice
-- [[001 - Sintaxis en Java]]
-- [[002 - Variables y Tipo de Datos en Java]]
-- [[003 - Operadores en Java]]
-- [[004 - Operaciones de lectura y escritura]]
-- [[005 - Estructuras de Control]]
-- [[006 - Arrays y Matrices]]
-- [[007 - Collections]]
-- [[001 - Clases en Java]]
-- [[002 - Objetos en Java]]
-- [[003 -  Excepciones en Java]]
-- [[004 - Manejo de excepciones en Java]]
-- [[005 - Clases Utilitarias]]
-- [[006 - Herencia en Java]]
-- [[007 - Clases Wrapper y Generics]]
-- [[008 - Lambda y Streams]]
-- [[009 - Clases Abstractas e Interfaces]]
+- [001 - Sintaxis en Java](001%20-%20Fundamentos/001%20-%20Sintaxis%20en%20Java.md)
+- [002 - Variables y Tipo de Datos en Java](001%20-%20Fundamentos/002%20-%20Variables%20y%20Tipo%20de%20Datos%20en%20Java.md)
+- [003 - Operadores en Java](001%20-%20Fundamentos/003%20-%20Operadores%20en%20Java.md)
+- [004 - Operaciones de lectura y escritura](001%20-%20Fundamentos/004%20-%20Operaciones%20de%20lectura%20y%20escritura.md)
+- [005 - Estructuras de Control](001%20-%20Fundamentos/005%20-%20Estructuras%20de%20Control.md)
+- [006 - Arrays y Matrices](001%20-%20Fundamentos/006%20-%20Arrays%20y%20Matrices.md)
+- [007 - Collections](001%20-%20Fundamentos/007%20-%20Collections.md)
+- [001 - Clases en Java](002%20-%20POO%20en%20Java/001%20-%20Clases%20en%20Java.md)
+- [002 - Objetos en Java](002%20-%20POO%20en%20Java/002%20-%20Objetos%20en%20Java.md)
+- [003 -  Excepciones en Java](002%20-%20POO%20en%20Java/003%20-%20%20Excepciones%20en%20Java.md)
+- [004 - Manejo de excepciones en Java](002%20-%20POO%20en%20Java/004%20-%20Manejo%20de%20excepciones%20en%20Java.md)
+- [005 - Clases Utilitarias](002%20-%20POO%20en%20Java/005%20-%20Clases%20Utilitarias.md)
+- [006 - Herencia en Java](002%20-%20POO%20en%20Java/006%20-%20Herencia%20en%20Java.md)
+- [007 - Clases Wrapper y Generics](002%20-%20POO%20en%20Java/007%20-%20Clases%20Wrapper%20y%20Generics.md)
+- [008 - Lambda y Streams](002%20-%20POO%20en%20Java/008%20-%20Lambda%20y%20Streams.md)
+- [009 - Clases Abstractas e Interfaces](002%20-%20POO%20en%20Java/009%20-%20Clases%20Abstractas%20e%20Interfaces.md)
 
 ![](📌%20Spring#Índice)

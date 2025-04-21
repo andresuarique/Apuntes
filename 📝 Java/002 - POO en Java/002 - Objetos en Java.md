@@ -1,6 +1,6 @@
 
 # Objetos en Java
-Un **objeto** en Java es una instancia de una [[001 - Clases en Java|clase]]. Cuando se crea un objeto, se reserva espacio en memoria para almacenar su estado y se le asignan comportamientos definidos por su clase.
+Un **objeto** en Java es una instancia de una [clase](001%20-%20Clases%20en%20Java.md). Cuando se crea un objeto, se reserva espacio en memoria para almacenar su estado y se le asignan comportamientos definidos por su clase.
 
 Los objetos contienen:
 

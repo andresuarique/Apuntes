@@ -1,6 +1,6 @@
 # Clases Wrapper
 
-Las **[[001 - Clases en Java|clases]] wrapper** en Java sirven para envolver tipos de datos primitivos y tratarlos como [[002 - Objetos en Java|objetos]]. Esto es útil en situaciones en las que se necesitan características de los objetos, como cuando se almacenan en colecciones que solo aceptan objetos o cuando se necesitan funciones adicionales como la conversión y la validación.
+Las **[clases](001%20-%20Clases%20en%20Java.md) wrapper** en Java sirven para envolver tipos de datos primitivos y tratarlos como [objetos](002%20-%20Objetos%20en%20Java.md). Esto es útil en situaciones en las que se necesitan características de los objetos, como cuando se almacenan en colecciones que solo aceptan objetos o cuando se necesitan funciones adicionales como la conversión y la validación.
 
 ## Características:
 

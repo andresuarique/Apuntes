@@ -64,7 +64,7 @@ Son capas
 - *Puertos* (Conectan dominio con el exterior) Controladores
 - *Adaptadores* conectan con servicios externos
 - *Infraestrcutura* (servicios transversales)Bases de datos, auditoria, seguridad
-   ![[Pasted image 20241023222339.png]]
+   ![Pasted image 20241023222339](../📎%20ANEXOS/Pasted%20image%2020241023222339.png)
 
 ## POO
 ### Polimorfismo

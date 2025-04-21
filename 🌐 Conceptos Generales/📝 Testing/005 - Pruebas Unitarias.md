@@ -1,5 +1,5 @@
 # Pruebas Unitarias
-Las pruebas unitarias son un tipo de [[001 - Testing|prueba]] que se enfoca en verificar el correcto funcionamiento de unidades individuales de código, como funciones, métodos o clases. Estas pruebas se realizan de manera aislada, evitando la interacción con otros componentes del sistema.
+Las pruebas unitarias son un tipo de [prueba](001%20-%20Testing.md) que se enfoca en verificar el correcto funcionamiento de unidades individuales de código, como funciones, métodos o clases. Estas pruebas se realizan de manera aislada, evitando la interacción con otros componentes del sistema.
 
 ## Características
 

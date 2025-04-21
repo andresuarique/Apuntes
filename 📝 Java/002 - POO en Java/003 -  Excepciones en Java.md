@@ -62,4 +62,4 @@ Cada línea muestra:
 - El método donde ocurrió    
 - El archivo fuente y el número de línea    
 
-> ![[Pasted image 20241227082041.png]]
+> ![Pasted image 20241227082041](../📎%20ANEXOS/Pasted%20image%2020241227082041.png)

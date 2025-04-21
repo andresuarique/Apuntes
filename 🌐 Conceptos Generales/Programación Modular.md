@@ -22,7 +22,7 @@ La programación modular es un paradigma de diseño de software que busca dividi
 
 3. **Reutilización de Código**: Los módulos pueden ser reutilizados en diferentes partes del mismo programa o en diferentes proyectos, lo que ahorra tiempo y esfuerzo en el desarrollo.
 
-4. **Facilidad de Pruebas**: Los módulos independientes pueden ser [[001 - Testing|probados]] de manera aislada, lo que facilita la identificación y corrección de errores.
+4. **Facilidad de Pruebas**: Los módulos independientes pueden ser [probados](📝%20Testing/001%20-%20Testing.md) de manera aislada, lo que facilita la identificación y corrección de errores.
 
 5. **Colaboración**: Facilita el trabajo en equipo, ya que diferentes desarrolladores pueden trabajar en distintos módulos de manera simultánea sin interferencias.
 

@@ -2,7 +2,7 @@
 
 ### **Escritura en consola**
 
-En [[001 - ¿Qué es Java?|Java]], para imprimir información en la consola, se utiliza `System.out.println()`:
+En [Java](001%20-%20¿Qué%20es%20Java?), para imprimir información en la consola, se utiliza `System.out.println()`:
 
 ```java
 System.out.println("Hola");
